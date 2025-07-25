@@ -93,28 +93,10 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | WOBI
 http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135660
-#EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
-http://179.51.160.246:8888/play/a00h/index.m3u8
 
-#EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YSVvwzIWu2HmBlniARDBwbloVvfHUzCK0g&s" group-title="Canales de Peru",CANAL N (720p) [Not 24/7] 
-https://play.agenciastreaming.com:8081/bhtv/index.fmp4.m3u8
-
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.pinimg.com/280x280_RS/ab/dc/92/abdc9278f4e0d25912ca9c66af8eb458.jpg" group-title="Canales de Peru", BETHEL BHTV (720p) [Not 24/7]
-https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ENLACE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Enlace_logo.png/revision/latest?cb=20180426064713" group-title="Canales de Peru",ENLACE (720p) [ 24/7] 
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="PE | Master TV" tvg-name="PE | Master TV" tvg-logo="https://mastertvradio.com/img/logo.png" group-title="PROVINCIALES", 34 | Master Televisión || Tarapoto
 https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | Viva TV
-https://live.obslivestream.com/vivatv/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="GeniostvHd" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Canales de Peru",GeniostvHD
-https://live.obslivestream.com/geniostvmux/tracks-v3a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png" group-title="Canales de Peru",Auténtica Televisión (720p) [Not 24/7] https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWYt5UULg05WKrkUudWfsRNxyMdtj5mahkQ&s",Karibeña (720p) 
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
@@ -130,14 +112,6 @@ https://vivatv.juanjuiserver.com:3149/live/luandi2025live.m3u8
 
 #EXTINF:-1 tvg-id="TR | CANAL 19" tvg-name="TR | CANAL 19" tvg-logo=" https://canal19.do/wp-content/uploads/2021/06/cropped-Logos-Canal-19-Cinevision.png" group-title="CINE Y DEPORTE", 60 | Canal 19
 https://cdn.mycloudstream.io/hls/live/broadcast/etyetihk/mono.m3u8
-
-#EXTINF:-1 tvg-id="DW ESPAÑOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="Canales de EUROPA", DW ESPAÑOL (570p) [ 24/7]
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="DW ENGLISH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTHHC76o6ZYKezVvrfsp2KvF8vl3ZyTiXXbg&s" group-title="Canales de EUROPA", DW ENGLISH (570p) [ 24/7]
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/WOBI_logo.png",Sᵘʳ Aᵐᵉʳⁱᶜᵃ | WOBI
-http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/135660
 
 #EXTINF:-1 tvg-id="PE | URANIO TV" tvg-name="PE | URANIO TV" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png" group-title="NOTICIAS", 7 | URANIO
 https://live.obslivestream.com/uraniotv/index.m3u8?
