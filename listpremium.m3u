@@ -314,10 +314,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 https://siloh-ns1.plutotv.net/lilo/production/MTVBlockParty/master_120250818T174617_7081138.ts?CMCD=bl%3D11700%2Cbr%3D2978%2Cd%3D5000%2Cmtp%3D7500%2Cot%3Dav%2Csf%3Dh%2Csid%3D%228d19d9f7-b7a7-4519-b64e-427dbfba09bb%22%2Ctb%3D2978
 
 #EXTINF:-1 group-title="PLUTO TV", MTV CLASSIC
-https://web-sdk.control.kochava.com/track/json
-
-#EXTINF:-1 group-title="PLUTO TV", UFC
-https://siloh-ns1.plutotv.net/lilo/production/UFC/master_120250818T174343_5845713.ts?CMCD=bl%3D10400%2Cbr%3D2978%2Cd%3D5000%2Cmtp%3D4600%2Cot%3Dav%2Csf%3Dh%2Csid%3D%22a86fb0ff-f150-463f-bbd6-3760639d2105%22%2Ctb%3D2978
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/66a11a21a79dea0008aa90ca/2294080/playlist.m3u8?terminate=false&sid=9c316354-7c59-11f0-b6b9-f2aae1a88f25&deviceDNT=0&deviceLat=-12.109999656677246&deviceLon=-77&deviceModel=web&deviceVersion=141.0.0&includeExtendedEvents=true&appName=web&DRMCapabilities=widevine&deviceId=f168c568-af37-45c2-9115-ccc50ea548c7
 
 #EXTINF:-1 group-title="PLUTO TV", UFC
 https://siloh-ns1.plutotv.net/lilo/production/UFC/master_120250818T174343_5845713.ts?CMCD=bl%3D10400%2Cbr%3D2978%2Cd%3D5000%2Cmtp%3D4600%2Cot%3Dav%2Csf%3Dh%2Csid%3D%22a86fb0ff-f150-463f-bbd6-3760639d2105%22%2Ctb%3D2978
