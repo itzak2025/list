@@ -315,6 +315,10 @@ https://siloh-ns1.plutotv.net/lilo/production/MTVBlockParty/master_120250818T174
 
 #EXTINF:-1 group-title="PLUTO TV", MTV CLASSIC
 https://web-sdk.control.kochava.com/track/json
+
+#EXTINF:-1 group-title="PLUTO TV", UFC
+https://siloh-ns1.plutotv.net/lilo/production/UFC/master_120250818T174343_5845713.ts?CMCD=bl%3D10400%2Cbr%3D2978%2Cd%3D5000%2Cmtp%3D4600%2Cot%3Dav%2Csf%3Dh%2Csid%3D%22a86fb0ff-f150-463f-bbd6-3760639d2105%22%2Ctb%3D2978
+
 #EXTINF:-1 group-title="PLUTO TV", UFC
 https://siloh-ns1.plutotv.net/lilo/production/UFC/master_120250818T174343_5845713.ts?CMCD=bl%3D10400%2Cbr%3D2978%2Cd%3D5000%2Cmtp%3D4600%2Cot%3Dav%2Csf%3Dh%2Csid%3D%22a86fb0ff-f150-463f-bbd6-3760639d2105%22%2Ctb%3D2978
 
