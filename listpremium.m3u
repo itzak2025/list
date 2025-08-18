@@ -103,7 +103,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.
 https://live-evg25.tv360.bitel.com.pe/bitel/selvatv/bitel/selvatv_ori_480p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="VIA TELEVISION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyI0ffw2ibke8QZucpBnqWRB_yHDJsit0s1A&s" group title="Canales de Peru", 11 | VIA TELEVISION
-https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia_0_114488.ts
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-1 tvg-id="TARAPOTO TELEVISION" tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group title="Canales de Peru", 12 | TELEVISION TARAPOTO
 https://live-evg25.tv360.bitel.com.pe/bitel/tarapototv/chunks.m3u8
