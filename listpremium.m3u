@@ -48,7 +48,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285536-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe6859ac-2fe0-4cfe-aa7f-b5f343d25841
 
 #EXTINF:-1 tvg-id="liga1max" tvg-logo="https://comunidaria.com/wp-content/uploads/2024/01/La-LIGA-1-MAX-se-vive-en-DIRECTV.jpg" group-title="CANALES PERU",Liga1Max 
-https://24a1.crackstreamslivehd.com/liga1max/tracks-v1a1/mono.m3u8?ip=181.176.108.223&token=fa6ec0b51ec4ced8b2d353c8c4873ebc52a3eedb-c3-1755577224-1755523224
+http://38.187.3.110:8000/play/a069/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL N" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4YSVvwzIWu2HmBlniARDBwbloVvfHUzCK0g&s" group-title="Canales de Peru",CANAL N (720p) [Not 24/7] 
 https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/chunks.m3u8
@@ -64,7 +64,6 @@ https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="PERU", 11 | Viva TV
 https://live.obslivestream.com/vivatv/tracks-v3a1/2025/08/18/16/08/06-05377.ts
-
 
 #EXTINF:-1 tvg-id="GeniostvHd" tvg-logo="https://geniostv.pe/wp-content/uploads/2023/11/logo.png" group-title="Canales de Peru",GeniostvHD
 https://live.obslivestream.com/geniostvmux/tracks-v3a1/mono.m3u8
