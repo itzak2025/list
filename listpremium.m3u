@@ -30,7 +30,7 @@ https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.
 https://live-evg25.tv360.bitel.com.pe/bitel/CreoLatinoSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Canal Ipe" tvg-logo="https://www.concortv.gob.pe/wp-content/uploads/2016/06/Nota-de-prensa-1-Logo-Canal-IPe.png" group-title="Canales de Peru", 3| Canal Ipe
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677-5066.tshttps://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677-5066.ts
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e677-5066.ts
 
 #EXTINF:-1 tvg-id="CTV PERU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxx441jRbtqK0xVq4VibCfXC3BlfizdKhJSg&s" group-title="Canales de Peru", 4| CTV PERU
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv/chunks.m3u8
